@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f0794ca-04e7-4b1a-8b8d-5201ca15827d" name="Changes" comment="fix key test">
+    <list default="true" id="2f0794ca-04e7-4b1a-8b8d-5201ca15827d" name="Changes" comment="fix key testy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Rate.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rate.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StoreItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/StoreItem.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="85a3ab20-23b9-4d75-a158-3639c511940d" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -174,6 +179,9 @@
       <workItem from="1692942017632" duration="1533000" />
       <workItem from="1692943556021" duration="330000" />
       <workItem from="1692943891652" duration="98000" />
+      <workItem from="1692944052166" duration="214000" />
+      <workItem from="1692980082926" duration="212000" />
+      <workItem from="1692980299665" duration="1784000" />
     </task>
     <task id="LOCAL-00001" summary="fix key">
       <option name="closed" value="true" />
@@ -199,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692943457557</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix key testy">
+      <option name="closed" value="true" />
+      <created>1692944140542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692944140542</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +262,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix key" />
     <MESSAGE value="fix key test" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix key test" />
+    <MESSAGE value="fix key testy" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix key testy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
