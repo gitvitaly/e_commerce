@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f0794ca-04e7-4b1a-8b8d-5201ca15827d" name="Changes" comment="fix key" />
+    <list default="true" id="2f0794ca-04e7-4b1a-8b8d-5201ca15827d" name="Changes" comment="fix key test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/vitalypark/Desktop/Dev/cart/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;repository&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -164,7 +171,9 @@
       <workItem from="1692937743991" duration="523000" />
       <workItem from="1692938272409" duration="2840000" />
       <workItem from="1692941121211" duration="892000" />
-      <workItem from="1692942017632" duration="1416000" />
+      <workItem from="1692942017632" duration="1533000" />
+      <workItem from="1692943556021" duration="330000" />
+      <workItem from="1692943891652" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="fix key">
       <option name="closed" value="true" />
@@ -182,18 +191,53 @@
       <option name="project" value="LOCAL" />
       <updated>1692943354079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix key test">
+      <option name="closed" value="true" />
+      <created>1692943457557</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692943457557</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -201,7 +245,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix key" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix key" />
+    <MESSAGE value="fix key test" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix key test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
